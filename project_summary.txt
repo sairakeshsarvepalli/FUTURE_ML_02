@@ -1,0 +1,36 @@
+Support Ticket Classification & Prioritization
+
+Objective:
+Build a machine learning system to automatically classify customer support tickets and predict ticket priority levels.
+
+Dataset:
+Customer Support Ticket Dataset (Kaggle)
+
+Technologies Used:
+
+* Python
+* Pandas
+* NLTK
+* Scikit-learn
+* TF-IDF Vectorization
+* Matplotlib
+* Seaborn
+
+Workflow:
+
+1. Data Cleaning
+2. Text Preprocessing
+3. Stopword Removal
+4. TF-IDF Feature Extraction
+5. Ticket Type Classification
+6. Priority Prediction
+7. Model Evaluation
+8. Business Visualization
+
+Results:
+
+* Ticket Type Classification Accuracy: 18.36%
+* Priority Prediction Accuracy: 24.91%
+
+Business Impact:
+This system helps organizations automatically route customer tickets to the appropriate department and identify urgent issues faster, improving response time and operational efficiency.
